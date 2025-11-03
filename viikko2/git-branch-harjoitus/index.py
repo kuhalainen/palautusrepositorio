@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # tehdään alussa importit
 #uusi muutos
-=======
->>>>>>> 1061cd6 (add multiplication to program)
 from logger import logger
 from summa import summa
 from erotus import erotus
